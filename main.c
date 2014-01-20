@@ -1,3 +1,6 @@
+#include "stm32f10x.h"
+#include "usart1.h"
+#include "key.h"
 int main(void)
 {	
 	/* USART1 config 115200 8-N-1 */
